@@ -36,7 +36,53 @@ Total Clicks
 Total Spend
 Click-Through Rate (CTR %)
 Cost Per Click (CPC)
-
 Conversion Rate
+
+📊 Dashboard Structure
+🔹 Page 1 – Campaign Performance Overview
+KPI cards (Clicks, Spend, Impressions, CTR, CPC)
+Clicks & Ad Spend trend over time
+Top 10 ads by clicks
+Click distribution by gender
+🔹 Page 2 – Audience & Ad Performance Analysis
+CTR (%) by age group
+Top 10 interests by approved conversions
+Ad Spend vs Approved Conversions (scatter plot)
+Interactive filters (Campaign, Ad ID, Gender, Interest)
+🔹 Page 3 – Insights & Optimization Recommendations
+Key campaign insights
+Actionable recommendations to improve performance and ROI
+
+🧠 Key Insights
+The 45–49 age group shows the highest CTR, indicating stronger engagement.
+Certain interest groups generate higher approved conversions, showing better lead quality.
+Higher ad spend does not always result in higher approved conversions.
+Male users contribute the majority of clicks.
+A small number of ads drive a large share of clicks and conversions.
+
+🎯 Recommendations
+Increase budget allocation to high-CTR age groups and high-approval interests.
+Pause or redesign ads with high spend but low approved conversions.
+Scale high-performing ads identified in the Top-10 analysis.
+Perform A/B testing to improve CTR and conversion efficiency.
+Refine audience targeting using high-CTR age groups combined with high-conversion interests.
+
+📌 Key Skills Demonstrated
+Marketing Analytics
+Data Cleaning & Transformation
+KPI & Metric Analysis
+Data Visualization & Storytelling
+Power BI Dashboard Design
+Business Insight Generation
+
+📷 Dashboard Preview
+<img width="874" height="467" alt="image" src="https://github.com/user-attachments/assets/20fad4bb-e626-4b21-a23a-465be178eb3f" />
+<img width="870" height="474" alt="image" src="https://github.com/user-attachments/assets/03617283-b6ce-4f0d-9c4b-2f328e3ce357" />
+<img width="852" height="461" alt="image" src="https://github.com/user-attachments/assets/586bd56a-633c-49a4-aaca-54d1baa69693" />
+
+📄 How to Use
+Download the .pbix file
+Open in Power BI Desktop
+Explore dashboards using slicers and filters
 
 Approval Rate (Approved Conversions / Total Conversions)
