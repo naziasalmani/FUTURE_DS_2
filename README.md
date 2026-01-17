@@ -76,13 +76,11 @@ Power BI Dashboard Design
 Business Insight Generation
 
 📷 Dashboard Preview
-<img width="874" height="467" alt="image" src="https://github.com/user-attachments/assets/20fad4bb-e626-4b21-a23a-465be178eb3f" />
-<img width="870" height="474" alt="image" src="https://github.com/user-attachments/assets/03617283-b6ce-4f0d-9c4b-2f328e3ce357" />
+<img width="749" height="405" alt="image" src="https://github.com/user-attachments/assets/6a97a29f-fadd-4abf-93c2-cc4a4b882607" />
+<img width="737" height="411" alt="image" src="https://github.com/user-attachments/assets/5e680472-90ca-48af-99bf-a5d41b509d48" />
 <img width="852" height="461" alt="image" src="https://github.com/user-attachments/assets/586bd56a-633c-49a4-aaca-54d1baa69693" />
 
 📄 How to Use
 Download the .pbix file
 Open in Power BI Desktop
 Explore dashboards using slicers and filters
-
-Approval Rate (Approved Conversions / Total Conversions)
